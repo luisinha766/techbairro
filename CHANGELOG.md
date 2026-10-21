@@ -63,3 +63,6 @@
 ## Antes da v2.0 (Aulas 5 a 10)
 
 - Desenvolvimento do protótipo inicial com interface gráfica (Tkinter), contendo formulário de cadastro, tratamento de eventos nos botões e validação básica de campos obrigatórios.
+## Em desenvolvimento
+### Adicionado
+- Código publicado no GitHub, com histórico de versões.
