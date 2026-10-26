@@ -1,0 +1,9 @@
+# A TechBairro não possui dependências externas.
+# O projeto utiliza apenas bibliotecas da biblioteca padrão do Python.
+#
+# Bibliotecas utilizadas:
+# tkinter - interface gráfica
+# sqlite3 - banco de dados SQLite
+# os - manipulação de caminhos de arquivos
+#
+# Não é necessário instalar pacotes externos com o pip.

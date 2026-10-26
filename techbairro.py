@@ -26,6 +26,8 @@ janela.geometry("480x460")
 
 janela.resizable(False, False)
 
+VERSAO = "3.3.2"
+
 
 # ============================================================
 # OBJETO GERENCIADOR

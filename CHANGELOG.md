@@ -1,6 +1,12 @@
 # Changelog da TechBairro
 
-## v3.3.0 (Aula 20)
+## v3.3.2 (Aula 27)
+
+### Adicionado
+- README com requisitos, instalação e configuração do banco.
+- Arquivo requirements.txt.
+- Manual de uso em docs/manual_de_uso.md.
+- Registro de testes em docs/registro_de_testes.md.
 
 ### Adicionado
 - Botão **"Salvar edição"** durante a alteração de clientes.
@@ -65,4 +71,5 @@
 - Desenvolvimento do protótipo inicial com interface gráfica (Tkinter), contendo formulário de cadastro, tratamento de eventos nos botões e validação básica de campos obrigatórios.
 ## Em desenvolvimento
 ### Adicionado
+- Código publicado no GitHub, com histórico de versões.
 - Código publicado no GitHub, com histórico de versões.
