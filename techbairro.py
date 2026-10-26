@@ -602,7 +602,7 @@ tk.Button(
 
 tk.Label(
     janela,
-    text="v3.3.1",
+    text=f"v{VERSAO}",
     fg="gray"
 ).place(
     relx=0.97,
