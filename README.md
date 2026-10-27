@@ -95,6 +95,6 @@ O passo a passo está no [Manual de uso](docs/manual_de_uso.md).
 
 ## Autor
 
-**[SEU NOME]**  
+**[fernanda Luísa Carvalho **  
 Curso: Desenvolvimento de Sistemas  
 Instituição: SENAC DF
